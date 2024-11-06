@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 194, 119);
+}
+#dv1{
+    margin-top: 100px;
+    border: solid rgb(206, 173, 65) 5px;
+    border-radius: 10px;
+    background-color: bisque;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+p{text-align: center;
+    color: brown;
+    font-size: 40px;
+}
+#dv2{margin-top: 100px;
+    border: solid rgb(206, 173, 65) 5px;
+    border-radius: 10px;
+    background-color: bisque;
+    margin-left: 830px;
+    margin-right: 830px;
+    text-align: center;
+    height: 240px;
+}
+img{
+    border-radius: 5px;
+    width: 235px ;
+    height: 240px;
+}
